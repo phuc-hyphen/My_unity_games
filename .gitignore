@@ -19,11 +19,6 @@
 /GameDesign/Library
 /GameDesign/Packages
 
-/3Dgame/My project/Builds
-/3Dgame/My project/Library
-/3Dgame/My project/Packages
-/3Dgame/My project/Logs
-
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
